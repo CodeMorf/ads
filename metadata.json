@@ -1,0 +1,6 @@
+{
+  "name": "AllSender Ads — AI Advertising Optimization Platform",
+  "description": "Autonomous SaaS platform for digital advertising management and optimization with multi-agent intelligence, mathematical decision engine, and strict risk guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
